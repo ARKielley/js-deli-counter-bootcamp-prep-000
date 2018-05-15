@@ -24,5 +24,4 @@ function currentLine(katzDeliLine) {
       str += `${i + 1}. ${katzDeliLine[i]}${katzDeliLine.length - i > 1 ? `,` : ``}`
     }
   }
-  }
 }
