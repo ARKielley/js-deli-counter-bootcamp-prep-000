@@ -1,1 +1,5 @@
-function takeANumber(katsDeliLine, name)
+var katzDei = []
+
+function takeANumber(katzDeliLine, name) {
+  katzDeliLine
+}
