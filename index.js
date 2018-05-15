@@ -14,3 +14,7 @@ function nowServing(katzDeliLine) {
   return `Currently serving ${current}.`;
   }
 }
+
+function currentLine(katzDeliLine) {
+  while (katzDeliLine)
+}
